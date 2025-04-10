@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Project specific
+prj_task*.txt
+Github*.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo 
