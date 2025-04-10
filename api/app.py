@@ -40,4 +40,4 @@ if __name__ == '__main__':
     if len(sys.argv) > 1 and sys.argv[1] == '--cli':
         cli_chat()
     else:
-        app.run(debug=True, port=5004) 
+        app.run(debug=True, port=5005) 
